@@ -1,0 +1,6 @@
+name: Weerwolven
+version: '1.0'
+main: nl.multitime.weerwolven.Weerwolven
+api-version: '1.19'
+authors: [ MysticPhoenix_ ]
+description: Twerion.net RR system
