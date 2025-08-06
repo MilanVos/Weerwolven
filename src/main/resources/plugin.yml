@@ -3,4 +3,10 @@ version: '1.0'
 main: nl.multitime.weerwolven.Weerwolven
 api-version: '1.19'
 authors: [ MysticPhoenix_ ]
-description: Twerion.net RR system
+description: Weerwolven van Wakkerdam gamemode voor Minecraft
+
+commands:
+  weerwolven:
+    description: Main command for Weerwolven gamemode
+    aliases: [ww, werewolf]
+    usage: /weerwolven <subcommand>
